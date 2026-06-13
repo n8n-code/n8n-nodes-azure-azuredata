@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-azuredata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure Data management API provides RESTful web APIs to manage Azure Data Resources.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-azuredata",
